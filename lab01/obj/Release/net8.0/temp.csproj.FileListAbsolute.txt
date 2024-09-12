@@ -1,0 +1,14 @@
+/Users/LiWinDom/Documents/Code/temp/temp/bin/Release/net8.0/temp
+/Users/LiWinDom/Documents/Code/temp/temp/bin/Release/net8.0/temp.deps.json
+/Users/LiWinDom/Documents/Code/temp/temp/bin/Release/net8.0/temp.runtimeconfig.json
+/Users/LiWinDom/Documents/Code/temp/temp/bin/Release/net8.0/temp.dll
+/Users/LiWinDom/Documents/Code/temp/temp/bin/Release/net8.0/temp.pdb
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.AssemblyInfoInputs.cache
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.AssemblyInfo.cs
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.csproj.CoreCompileInputs.cache
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.dll
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/refint/temp.dll
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.pdb
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/temp.genruntimeconfig.cache
+/Users/LiWinDom/Documents/Code/temp/temp/obj/Release/net8.0/ref/temp.dll

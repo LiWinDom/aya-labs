@@ -1,0 +1,14 @@
+/Users/LiWinDom/Documents/Code/temp/lab01/bin/Release/net8.0/lab01
+/Users/LiWinDom/Documents/Code/temp/lab01/bin/Release/net8.0/lab01.deps.json
+/Users/LiWinDom/Documents/Code/temp/lab01/bin/Release/net8.0/lab01.runtimeconfig.json
+/Users/LiWinDom/Documents/Code/temp/lab01/bin/Release/net8.0/lab01.dll
+/Users/LiWinDom/Documents/Code/temp/lab01/bin/Release/net8.0/lab01.pdb
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.AssemblyInfoInputs.cache
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.AssemblyInfo.cs
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.csproj.CoreCompileInputs.cache
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.dll
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/refint/lab01.dll
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.pdb
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/lab01.genruntimeconfig.cache
+/Users/LiWinDom/Documents/Code/temp/lab01/obj/Release/net8.0/ref/lab01.dll
